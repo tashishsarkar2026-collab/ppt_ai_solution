@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+
+
+# Environment Files
+.env
+
+
+# SQLite
+*.db
+*.sqlite3
+
+
+# Outputs
+outputs/
+
+
+# Processed Files
+templates/processed/
+
+
+# Raw Uploads
+templates/raw/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+# VSCode
+.vscode/
+
+
+# Streamlit Cache
+.streamlit/
+
+
+# Logs
+*.log
