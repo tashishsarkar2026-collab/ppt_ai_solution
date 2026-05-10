@@ -141,7 +141,7 @@ Responsibilities:
 from fastapi import FastAPI
 
 from app.database.db import engine
-from app.database.reset_db import reset_database
+from ppt_engine.app.database.knowledge_base_service import reset_database
 
 from app.models.models import Base
 
